@@ -1,0 +1,7 @@
+#earthengine-api==1.5.9  # Note: had permission issues - bypassing for now
+keras==3.9.2
+loguru==0.7.3
+opencv-python==4.11.0.86
+pillow==11.1.0
+scikit-learn==1.6.1
+#tensorflow==2.19.0
